@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chanpreetRatta
-- 👀 I’m interested in devolping website using HTML, javascript, and CSS. 
+- 👀 I’m interested in developing website using HTML, javascript, and CSS. 
 - 🌱 I’m currently learning javascripts. 
 - 💞️ I’m looking to collaborate on making simple and static websites. 
 - 📫 How to reach me ....
